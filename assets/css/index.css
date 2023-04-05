@@ -226,7 +226,6 @@ ul {
 }
 .main .images::after {
     position: absolute;
-    /* left: 40%; */
     z-index: -1;
     content: '';
     width: 60%;
